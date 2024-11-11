@@ -15,4 +15,4 @@
   <img src="https://profile-counter.glitch.me/Yodazon/count.svg" />
 </p>
 
-<p align="center" href="https://michaelkaras.vercel.app/">Click Here for my website</p>
+<a align="center" href="https://michaelkaras.vercel.app/" >Click Here for my website</a>
